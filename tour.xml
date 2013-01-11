@@ -27,7 +27,7 @@
 	
 	<scene name="duongvao" title="Đường vào" onstart="" thumburl="panos/duongvao/thumb.jpg" lat="39.563340" lng="19.904324" heading="0.0">
 
-		<view hlookat="-1" vlookat="11" fovtype="MFOV" fov="120" fovmin="70" fovmax="140" limitview="auto" />
+		<view hlookat="80" vlookat="0" fovtype="MFOV" fov="100" fovmin="50" fovmax="140" limitview="auto" />
 
 
 
