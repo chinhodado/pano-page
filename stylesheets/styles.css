@@ -185,11 +185,11 @@ footer {
 @media print, screen and (max-width: 1700px) and (min-width: 1501px) {
   
   div.wrapper {
-    width:1500px;
+    width:1305px;
   }
   
   section {
-    width:1150px;
+    width:1000px;
   }
 }
 
