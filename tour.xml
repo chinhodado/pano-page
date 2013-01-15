@@ -25,14 +25,146 @@
 	</action>
 
 	
-	<scene name="duongvao" title="Đường vào" onstart="" thumburl="panos/duongvao/thumb.jpg" lat="39.563340" lng="19.904324" heading="0.0">
+	<scene name="duongvao" title="Đường vào" onstart="" thumburl="images/thumb/duongvao.jpg">
 
 		<view hlookat="80" vlookat="0" fovtype="MFOV" fov="100" fovmin="50" fovmax="140" limitview="auto" />
 
 
 
 		<image>
-			<sphere url="panotest.jpg" />
+			<sphere url="images/pano/duongvao.jpg" />
+		</image>
+
+	</scene>
+	
+	<scene name="santruoc" title="Sân trước" onstart="" thumburl="images/thumb/santruoc.jpg">
+
+		<view hlookat="5" vlookat="5" fovtype="MFOV" fov="100" fovmin="50" fovmax="140" limitview="auto" />
+
+
+
+		<image>
+			<sphere url="images/pano/santruoc.jpg" />
+		</image>
+
+	</scene>
+	
+	<scene name="phongkhach" title="Phòng khách" onstart="" thumburl="images/thumb/phongkhach.jpg">
+
+		<view hlookat="80" vlookat="0" fovtype="MFOV" fov="100" fovmin="50" fovmax="140" limitview="auto" />
+
+
+
+		<image>
+			<sphere url="images/pano/phongkhach.jpg" />
+		</image>
+
+	</scene>
+	
+	<scene name="phongba" title="Phòng bà" onstart="" thumburl="images/thumb/phongba.jpg">
+
+		<view hlookat="80" vlookat="0" fovtype="MFOV" fov="100" fovmin="50" fovmax="140" limitview="auto" />
+
+
+
+		<image>
+			<sphere url="images/pano/phongba.jpg" />
+		</image>
+
+	</scene>
+	
+	<scene name="t2ngoai" title="Tầng 2 phòng ngoài" onstart="" thumburl="images/thumb/t2ngoai.jpg">
+
+		<view hlookat="80" vlookat="0" fovtype="MFOV" fov="100" fovmin="50" fovmax="140" limitview="auto" />
+
+
+
+		<image>
+			<sphere url="images/pano/t2ngoai.jpg" />
+		</image>
+
+	</scene>
+	
+	<scene name="t2trong" title="Tầng 2 phòng trong" onstart="" thumburl="images/thumb/t2trong.jpg">
+
+		<view hlookat="-40" vlookat="5" fovtype="MFOV" fov="100" fovmin="20" fovmax="140" limitview="auto" />
+
+
+
+		<image>
+			<sphere url="images/pano/t2trong.jpg" />
+		</image>
+
+	</scene>
+	
+	<scene name="lancan" title="Lan can tầng 2" onstart="" thumburl="images/thumb/lancan.jpg">
+
+		<view hlookat="-80" vlookat="30" fovtype="MFOV" fov="100" fovmin="50" fovmax="140" limitview="auto" />
+
+
+
+		<image>
+			<sphere url="images/pano/lancan.jpg" />
+		</image>
+
+	</scene>
+	
+	<scene name="bep" title="Bếp" onstart="" thumburl="images/thumb/bep.jpg">
+
+		<view hlookat="0" vlookat="0" fovtype="MFOV" fov="100" fovmin="50" fovmax="140" limitview="auto" />
+
+
+
+		<image>
+			<sphere url="images/pano/bep.jpg" />
+		</image>
+
+	</scene>
+	
+	<scene name="chorua" title="Chỗ rửa" onstart="" thumburl="images/thumb/chorua.jpg">
+
+		<view hlookat="180" vlookat="0" fovtype="MFOV" fov="100" fovmin="50" fovmax="140" limitview="auto" />
+
+
+
+		<image>
+			<sphere url="images/pano/chorua.jpg" />
+		</image>
+
+	</scene>
+	
+	<scene name="vuon" title="Vườn" onstart="" thumburl="images/thumb/vuon.jpg">
+
+		<view hlookat="0" vlookat="0" fovtype="MFOV" fov="100" fovmin="50" fovmax="140" limitview="auto" />
+
+
+
+		<image>
+			<sphere url="images/pano/vuon.jpg" />
+		</image>
+
+	</scene>
+	
+	<scene name="congsau" title="Cổng sau" onstart="" thumburl="images/thumb/congsau.jpg">
+
+		<view hlookat="80" vlookat="0" fovtype="MFOV" fov="100" fovmin="50" fovmax="140" limitview="auto" />
+
+
+
+		<image>
+			<sphere url="images/pano/congsau.jpg" />
+		</image>
+
+	</scene>
+	
+	<scene name="sane2" title="Sân E" onstart="" thumburl="images/thumb/sane2.jpg">
+
+		<view hlookat="0" vlookat="0" fovtype="MFOV" fov="100" fovmin="50" fovmax="140" limitview="auto" />
+
+
+
+		<image>
+			<sphere url="images/pano/sane2.jpg" />
 		</image>
 
 	</scene>
